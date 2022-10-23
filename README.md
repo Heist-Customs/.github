@@ -8,10 +8,10 @@ Heist Customs scripts
 https://smeary.gitbook.io/heist-customs/
 
 ## Our team
-<div align="left">
+<div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Smeary89&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 
-<div align="right">
+<div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GurumiHeist&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
         
 
