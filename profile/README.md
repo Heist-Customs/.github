@@ -16,7 +16,6 @@ https://smeary.gitbook.io/heist-customs/
 
 </div>
 
-## Snake
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
